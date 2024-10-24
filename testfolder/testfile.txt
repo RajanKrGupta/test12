@@ -2,3 +2,4 @@ testfile updated.
 Features
 -------------
 1.Feature1 added
+2.Feature2 added
